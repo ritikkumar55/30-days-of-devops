@@ -1,0 +1,3 @@
+Name: Ritik Kumar
+Role: DevOps Learner
+Goal: Become a skilled DevOps Engineer
