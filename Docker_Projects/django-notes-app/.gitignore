@@ -33,3 +33,29 @@ Docker_Projects/django-notes-app/data/mysql/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# Python / Django
+__pycache__/
+*.py[cod]
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# Environment
+.env
+venv/
+env/
+
+# Docker / MySQL
+data/mysql/db/
+*.sock
+*.pid
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
